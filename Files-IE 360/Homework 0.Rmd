@@ -1,0 +1,39 @@
+---
+title: "Interesting Forecasting Applications with R"
+author: "Dürdane Karabacak - IE360 - Srping 2020"
+---
+```{r,echo=FALSE,results="hide"}
+library(knitr)
+opts_chunk$set(tidy.opts=list(width.cutoff=60),tidy=TRUE)
+```
+
+```{r,echo=FALSE,eval=FALSE}
+rmarkdown::render("/home/baydogan/Courses/IE360/Guidelines/example_homework_0.Rmd",output_format="pdf_document")
+rmarkdown::render("/home/baydogan/Courses/IE360/Guidelines/example_homework_0.Rmd",output_format="html_document")
+```
+
+
+1. [Time series forecasting using ARIMA models](https://blogs.oracle.com/datascience/introduction-to-forecasting-with-arima-in-r)
+
+    This example is important because it introduces the forecasting methodology using ARIMA models in R. 
+    
+
+2. [Using R for Time Series Analysis](https://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/src/timeseries.html)
+
+    In this page, there is an analysis for Age of Death of Successive Kings of England in R
+    
+
+3. [Forecasting with R Notes](https://kourentzes.com/forecasting/wp-content/uploads/2016/06/Forecasting-with-R-notes.pdf)
+
+    In this pdf, there is a totalitarian teaching for forecsting, time series analysis.
+
+
+4. [Forecating using multiple models](https://cran.rstudio.com/web/packages/sweep/vignettes/SW02_Forecasting_Multiple_Models.html)
+
+    Here,  there is an example of forecasting of Gasoline pricing using three models (ARIMA, ETS, BATS)  
+
+
+5. [Forecast double seasonal time series with multiple linear regression in
+R](https://petolau.github.io/Forecast-double-seasonal-time-series-with-multiple-linear-regression-in-R/)
+
+    This example shows how to forecast double seasonal time series data with multiple linear regression in R
