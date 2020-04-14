@@ -1,6 +1,6 @@
 ---
 title: "Interesting Forecasting Applications with R"
-author: "Dürdane Karabacak - IE360 - Srping 2020"
+author: "Dürdane Karabacak - IE360 - Spring 2020"
 ---
 ```{r,echo=FALSE,results="hide"}
 library(knitr)
