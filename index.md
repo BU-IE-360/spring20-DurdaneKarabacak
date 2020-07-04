@@ -4,5 +4,5 @@ You can reach HTML file for forecasting examples in R from [here](Files-IE 360/H
 
 **PROJECT**
 
-You can reach HTML file for IE 360 project from [here](360-PROJECT-FINAL.html)
+To see HTML file for IE 360 project, please click [here](360-PROJECT-FINAL.html)
 
